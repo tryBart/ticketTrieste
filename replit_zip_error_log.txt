@@ -1,0 +1,5 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/detect-libc","time":"2023-02-26T20:50:18Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mkdirp","time":"2023-02-26T20:50:18Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/prebuild-install","time":"2023-02-26T20:50:18Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/rc","time":"2023-02-26T20:50:18Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/semver","time":"2023-02-26T20:50:18Z"}
